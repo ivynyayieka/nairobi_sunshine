@@ -24,4 +24,6 @@ To analyse shadow  length disparity, I used data from [Suncalc](https://www.sunc
 
 With more time, a further step in this analysis could be an indepth scraping of the length of shadows at noon on the shortest day and longest day of the year [on Suncalc](https://www.suncalc.org/#/-1.2835,36.8238,11/2020.11.23/11:23/1/2). I think it could help to be thorough about the analysis of the sampled cities. I think moving the scale of time on the website via a scraper could be challenging but a worthwhile endeavour to prove the hypothesis.
 
+I have saved [some csv files](https://drive.google.com/drive/folders/1vHdm6bCcIEM7TdyfS7OysJ_hxcskXtVW?usp=sharing) that could not be uploaded here. 
+
 Tech: #Python, #R, #Datawrapper, #Canva, #HTML, #CSS
