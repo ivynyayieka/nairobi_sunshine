@@ -1,12 +1,9 @@
 
-
-<h4>How I analysed shadow length disparity year round</h4>
-
 <h4>How I collected the news headlines</h4>
 For the satirical gif of a collage of news headlines, I googled "Kenya/ Nairobi ranked highest/ worst in..."
 
 <h4>How I analysed the initial dataset on hours of sunshine</h4>
-For this story, I began with this [dataset from various sources](https://en.wikipedia.org/wiki/List_of_cities_by_sunshine_duration)  published on Wikipedia.
+For this story, I began with this   published on Wikipedia.
 
 From this dataset, I worked on an analysis of the total sunshine hours every year for cities around the world, finding that Nairobi’s sunshine is nearly the average.
 
@@ -19,6 +16,11 @@ I merged this file to the growing dataset and then used the new names to generat
 
 ![Daylight analysis](/Users/ivynyayieka/Downloads/sunshine_folder/nrb_violin_chart.png)
 
+<h4>How I analysed shadow length disparity year round</h4>
+
+[dataset from various sources published on Wikipedia](https://en.wikipedia.org/wiki/List_of_cities_by_sunshine_duration)
+
+[Sunset and Sunrise](https://www.sunrise-and-sunset.com/en)
 
 To analyse shadow  length disparity, I used data from [Suncalc](https://www.suncalc.org/#/40.4106,-3.4997,3/2020.11.23/11:23/1/2). For the cities starting with N I had sampled in order to make visualisation legible, I put together a column for the time in UTC at noon in each city. Then I used Suncalc to find the length of a one metre shadow at noon at each city.
 
