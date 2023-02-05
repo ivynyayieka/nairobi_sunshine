@@ -1,3 +1,17 @@
+
+
+<h4>How I analysed shadow length disparity year round</h4>
+
+To analyse shadow  length disparity, I used data from [Suncalc](https://www.suncalc.org/#/40.4106,-3.4997,3/2020.11.23/11:23/1/2). For the cities starting with N I had sampled in order to make visualisation legible, I put together a column for the time in UTC at noon in each city. Then I used Suncalc to find the length of a one metre shadow at noon at each city.
+
+With more time, a further step in this analysis could be an indepth scraping of the length of shadows at noon on the shortest day and longest day of the year [on Suncalc](https://www.suncalc.org/#/-1.2835,36.8238,11/2020.11.23/11:23/1/2). I think it could help to be thorough about the analysis of the sampled cities. I think moving the scale of time on the website via a scraper could be challenging but a worthwhile endeavour to prove the hypothesis.
+
+For this story, I began [with](https://en.wikipedia.org/wiki/List_of_cities_by_sunshine_duration)
+Tech: #Python, #R, #Datawrapper, #Canva, #HTML, #CSS
+
+For this story, I began with this [dataset from various sources](https://en.wikipedia.org/wiki/List_of_cities_by_sunshine_duration)  published on Wikipedia.
+
+
 <h4>How I collected the news headlines</h4>
 For the satirical gif of a collage of news headlines, I googled "Kenya/ Nairobi ranked highest/ worst in..."
 
@@ -14,14 +28,3 @@ I merged the sunshine dataset with daylight information from [Sunset and Sunrise
 I merged this file to the growing dataset and then used the new names to generate urls for the daylight dataset. Here, I scraped for data for the sunrise, sunset and day length for 365 days for more than 300 cities. (See sunshine_year_tables.ipnyb for the code), Afterwards, I analysed the resulting daylight data. I found that while some places have large differences between their longest and shortest days, Nairobi’s day length is generally the same throughout the year.
 
 ![Daylight analysis](/Users/ivynyayieka/Downloads/sunshine_folder/nrb_violin_chart.png)
-
-<h4>How I analysed shadow length disparity year round</h4>
-
-To analyse shadow  length disparity, I used data from [Suncalc](https://www.suncalc.org/#/40.4106,-3.4997,3/2020.11.23/11:23/1/2). For the cities starting with N I had sampled in order to make visualisation legible, I put together a column for the time in UTC at noon in each city. Then I used Suncalc to find the length of a one metre shadow at noon at each city.
-
-With more time, a further step in this analysis could be an indepth scraping of the length of shadows at noon on the shortest day and longest day of the year [on Suncalc](https://www.suncalc.org/#/-1.2835,36.8238,11/2020.11.23/11:23/1/2). I think it could help to be thorough about the analysis of the sampled cities. I think moving the scale of time on the website via a scraper could be challenging but a worthwhile endeavour to prove the hypothesis.
-
-For this story, I began [with](https://en.wikipedia.org/wiki/List_of_cities_by_sunshine_duration)
-Tech: #Python, #R, #Datawrapper, #Canva, #HTML, #CSS
-
-For this story, I began with this [dataset from various sources](https://en.wikipedia.org/wiki/List_of_cities_by_sunshine_duration)  published on Wikipedia.
