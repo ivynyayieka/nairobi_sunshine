@@ -17,7 +17,7 @@ I merged this file to the growing dataset and then used the new names to generat
 
 <h4>How I analysed shadow length disparity year round</h4>
 
-To analyse shadow length disparity, I used data from [Suncalc](https://www.suncalc.org/#/40.4106,-3.4997,3/2020.11.23/11:23/1/2). For the cities starting with N I had sampled in order to make visualisation legible, I put together a column for the time in UTC at noon in each city. Then I used Suncalc to find the length of a one metre shadow at noon at each city.
+To analyse shadow  length disparity, I used data from [Suncalc](https://www.suncalc.org/#/40.4106,-3.4997,3/2020.11.23/11:23/1/2). For the cities starting with N I had sampled in order to make visualisation legible, I put together a column for the time in UTC at noon in each city. Then I used Suncalc to find the length of a one metre shadow at noon at each city.
 
 With more time, a further step in this analysis could be an indepth scraping of the length of shadows at noon on the shortest day and longest day of the year [on Suncalc](https://www.suncalc.org/#/-1.2835,36.8238,11/2020.11.23/11:23/1/2). I think it could help to be thorough about the analysis of the sampled cities. I think moving the scale of time on the website via a scraper could be challenging but a worthwhile endeavour to prove the hypothesis.
 
