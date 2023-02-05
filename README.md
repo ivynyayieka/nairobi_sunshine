@@ -15,7 +15,8 @@ I merged the sunshine dataset with daylight information from [Sunset and Sunrise
 
 I merged this file to the growing dataset and then used the new names to generate urls for the daylight dataset. Here, I scraped for data for the sunrise, sunset and day length for 365 days for more than 300 cities. (See sunshine_year_tables.ipnyb for the code), Afterwards, I analysed the resulting daylight data. I found that while some places have large differences between their longest and shortest days, Nairobi’s day length is generally the same throughout the year.
 
-![Daylight analysis](/Users/ivynyayieka/Downloads/sunshine_folder/nrb_violin_chart.png)
+<h4>How I analysed temperature disparity year round</h4>
+For this, I used [temperature data](https://en.wikipedia.org/wiki/List_of_cities_by_average_temperature) on different cities published on Wikipedia. For ease of legibility, I selected only cities starting with N to show disparity in monthly average temperature year round. 
 
 <h4>How I analysed shadow length disparity year round</h4>
 
