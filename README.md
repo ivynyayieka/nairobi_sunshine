@@ -7,7 +7,7 @@ For this story, I began with this [dataset from various sources published on Wik
 From this dataset, I worked on an analysis of the total sunshine hours every year for cities around the world, finding that Nairobi’s sunshine is nearly the average.
 
 <h4>How I analysed the  duration of daylight year round for different cities</h4>
-I merged the sunshine dataset with daylight information from [Sunset and Sunrise data](https://www.sunrise-and-sunset.com/en). Daylight data is different from sunshine dataset mentioned prior because it refers to daylight even when cloudy.
+I merged the sunshine dataset with daylight information from [Sunset and Sunrise](https://www.sunrise-and-sunset.com/en) data. Daylight data is different from sunshine dataset mentioned prior because it refers to daylight even when cloudy.
 
  In order to obtain the relevant daylight data, I created a url pattern from the base dataset. The city was regularly labelled differently from one website to another eg. Benghazi-Bengazi, Bangalore-Bengaluru, Ferke-Ferkessédougou. Therefore, I manually matched them in a separate file. (sunshine_name_conversion.csv)
 
