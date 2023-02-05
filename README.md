@@ -2,6 +2,7 @@
 For the satirical gif of a collage of news headlines, I googled "Kenya/ Nairobi ranked highest/ worst in..."
 
 <h4>How I analysed the initial dataset on hours of sunshine</h4>
+For this story, I began [with](https://en.wikipedia.org/wiki/List_of_cities_by_sunshine_duration)
 For this story, I began with this [dataset from various sources](https://en.wikipedia.org/wiki/List_of_cities_by_sunshine_duration)  published on Wikipedia.
 
 From this dataset, I worked on an analysis of the total sunshine hours every year for cities around the world, finding that Nairobi’s sunshine is nearly the average.
