@@ -1,9 +1,9 @@
-<h6>Project on Nairobi Sunshine</h6>
+<h2>Project on Nairobi Sunshine</h2>
 This project is about what I miss most about Nairobi: sunshine. I have always believed that no city can beat Nairobi in terms of ideal weather: temperature, sunshine and daylight. For this project, I wanted to back up my beliefs with some hard data (and make it possible to continue to gloat about Nairobi's weather.)
 
 Go [here](https://ivynyayieka.github.io/nairobi_sunshine/) to read the final story
 
-<h5>Read below to learn about the analysis process</h5>
+<h3>Read below to learn about the analysis process</h3>
 
 <h4>How I collected the news headlines</h4>
 For the satirical gif of a collage of news headlines, I googled "Kenya/ Nairobi ranked highest/ worst in..."
