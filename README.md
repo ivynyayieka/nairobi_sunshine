@@ -32,4 +32,4 @@ With more time, a further step in this analysis could be an indepth scraping of 
 
 I have saved [some csv files](https://drive.google.com/drive/folders/1vHdm6bCcIEM7TdyfS7OysJ_hxcskXtVW?usp=sharing) that could not be uploaded here. 
 
-Tech: #Python, #R, #Datawrapper, #Canva, #HTML, #CSS
+Tech: #Python, #R, #Datawrapper, #Canva, #HTML, #CSS, #AdobeIllustrator #ai2html
