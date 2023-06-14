@@ -1,4 +1,4 @@
-<h2>Project on [Nairobi Sunshine](https://ivynyayieka.github.io/nairobi_sunshine/) </h2>
+# Project on [Nairobi Sunshine](https://ivynyayieka.github.io/nairobi_sunshine/)
 This project is about what I miss most about Nairobi: sunshine. I have always believed that no city can beat Nairobi in terms of ideal weather: temperature, sunshine and daylight. For this project, I wanted to back up my beliefs with some 'hard' data (and make it possible to continue to gloat about Nairobi's weather.)
 
 Go [here](https://ivynyayieka.github.io/nairobi_sunshine/) to read the final story
